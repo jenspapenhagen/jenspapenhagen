@@ -4,7 +4,10 @@ Java Full Stack Developer. Most repositories are private and used for testing, e
 
 ## About Me
 
-I am a software developer with a strong focus on Java backend development and microservices. I work professionally as a full stack developer and use GitHub to explore new technologies, build small services, and prototype ideas. My public repositories mainly reflect experiments, utilities, and proof-of-concepts rather than polished products.
+I am a software developer with a strong focus on Java backend development and microservices. 
+I work professionally as a full stack developer and use GitHub to explore new technologies,
+build small services, and prototype ideas. 
+My public repositories mainly reflect experiments, utilities, and proof-of-concepts rather than polished products.
 
 Location: Hamburg, Germany
 
