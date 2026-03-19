@@ -35,8 +35,8 @@ Location: Hamburg, Germany
 
 ### Frameworks & Platforms
 - Quarkus
-- RESTful APIs
-- Maven
+- Spring Boot
+- Maven/Gradle
   
 ## Open Source Maintenance
 maintain **toon-java**, the official Java library implementing the TOON (Token-Oriented Object Notation) format. 
